@@ -25,7 +25,7 @@ The CCT (Figner et al., 2009) is a behavioral measure of risk-taking. In each tr
 | Component | Formula | Parameter |
 |---|---|---|
 | Value function (gains) | `v(x) = x^α` | α: outcome sensitivity |
-| Value function (losses) | `v(x) = -λ · |x|^α` | λ: loss aversion |
+| Value function (losses) | `v(x) = -λ · \|x\|^α` | λ: loss aversion |
 | Probability weighting | `w(p) = exp(-(-ln p)^γ)` | γ: probability distortion (Prelec-1) |
 | Choice rule | `P(continue) = logistic(θ · V_continue)` | θ: inverse temperature |
 
