@@ -67,7 +67,7 @@ Four interactive plots that update in real time:
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cpt-cct-explorer-shiny.git
+git clone https://github.com/Jiahao-ZHU/cpt-cct-explorer-shiny.git
 cd cpt-cct-explorer-shiny
 ```
 
