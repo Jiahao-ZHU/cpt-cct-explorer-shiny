@@ -1,0 +1,15 @@
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+
+# Shiny deployment
+rsconnect/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# renv
+renv/library/
+renv/staging/
