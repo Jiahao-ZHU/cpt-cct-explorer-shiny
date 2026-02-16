@@ -2,9 +2,7 @@
 
 An interactive [R Shiny](https://shiny.posit.co/) app for visualizing **Cumulative Prospect Theory (CPT)** and simulating decision-making in the **Columbia Card Task (CCT, hot version)**.
 
-<!-- TODO: uncomment after adding a screenshot
 ![App Screenshot](screenshots/app_overview.png)
--->
 
 ## Background
 
